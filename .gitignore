@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Saved models
+models/*.pkl
+
+# Dataset
+data/IMDB Dataset.csv
+
+# Operating System
+Thumbs.db
+.DS_Store
