@@ -15,8 +15,9 @@ __pycache__/
 models/*.pkl
 
 # Dataset
-data/IMDB Dataset.csv
+data/*.csv
 
 # Operating System
 Thumbs.db
 .DS_Store
+
